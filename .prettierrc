@@ -1,7 +1,7 @@
 {
-	"useTabs": false,
-	"singleQuote": true,
-	"trailingComma": "all",
-	"printWidth": 120,
-	"tailwindStylesheet": "./src/routes/layout.css"
+  "useTabs": false,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "printWidth": 120,
+  "tailwindStylesheet": "./src/routes/layout.css"
 }
